@@ -5,18 +5,13 @@ Movie App, **The Movie Database (TMDb) API** kullanarak popüler filmleri listel
 
  ⚡ Özellikler
 - 🍿 Popüler filmleri listeleme  
-- 🔍 Film arama özelliği  
-- 🎨 Film puanına göre renkli etiketleme:
-  - 🟢 Yeşil: 8 ve üzeri  
-  - 🟠 Turuncu: 5-7.9  
-  - 🔴 Kırmızı: 5’in altında  
-- 📝 Film detay özetini gösterme  
-- 🖼 Poster resmi olmayan filmler için placeholder  
+- 🔍 İsim ve kategoriye göre film arama özelliği  
+
 
 ---
 
 🛠️ Kullanılan Teknolojiler
-- 💻 HTML, CSS, JavaScript (Vanilla JS)  
+- 💻 HTML, CSS, JavaScript
 - 🌐 Fetch API  
 - 🎥 TMDb API  
 

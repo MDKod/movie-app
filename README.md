@@ -26,6 +26,6 @@ Movie App, **The Movie Database (TMDb) API** kullanarak popüler filmleri listel
 
 <br>
 
-![gif](FİLM.jpg)
+![gif](FİLM.gif)
 
 

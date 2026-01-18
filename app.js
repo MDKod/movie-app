@@ -1,7 +1,10 @@
-const API_URL = `https://api.themoviedb.org/3/movie/popular?api_key=a6822ddc5d3df5cc15742bb7dbf7508e&language=tr-TR`;
+const API_URL = `https://api.themoviedb.org/3/movie/popular?api_key=XXXXXXXXXXXX7dbf7508e&language=tr-TR`;
 const IMG_PATH = "https://image.tmdb.org/t/p/w500";
 const SEARCH_URL =
-  "https://api.themoviedb.org/3/search/movie?api_key=a6822ddc5d3df5cc15742bb7dbf7508e&language=tr-TR&query=";
+  "https://api.themoviedb.org/3/search/movie?api_key=XXXXXXXXXXXXXXX&language=tr-TR&query=";
+
+//Api key almak için https://www.themoviedb.org/ sitesine üye olup alabilirsiniz.Kendi api keyinizi yukarıdaki XXXXXXXXXXXXXXX kısımlarına ekleyiniz.:)
+
 
 const form = document.getElementById("form");
 const search = document.getElementById("search");
